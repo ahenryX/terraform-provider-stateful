@@ -1,4 +1,4 @@
-module github.com/ahenryX/terraform-stateful-provider
+module github.com/ahenryX/terraform-provider-stateful
 
 go 1.20
 
